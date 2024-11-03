@@ -1,2 +1,2 @@
 # crawling_data
-crawling_data tugas 10
+Melakukan Crawling data dari media sosial X untuk memenuhi tugas 10
